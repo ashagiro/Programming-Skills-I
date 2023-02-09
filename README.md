@@ -1,2 +1,2 @@
-# Programming-Skills-I-leetcode-
+# Programming-Skills-I
 Leetcode problems solutions
